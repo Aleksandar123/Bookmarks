@@ -12,6 +12,8 @@
 
 [https://github.com/narkoz/guides](https://github.com/narkoz/guides) - List of guides
 
+[http://resrc.io/list/10/list-of-free-programming-books/](http://resrc.io/list/10/list-of-free-programming-books/)- List of free programming books
+
 ---
 
 ### Docs.
