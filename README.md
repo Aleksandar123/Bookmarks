@@ -46,6 +46,8 @@
 
 [https://import.io](https://import.io) - Web pages to data
 
+[https://www.draw.io/](https://www.draw.io/) - Diagram drawing tool
+
 ---
 
 
@@ -69,6 +71,8 @@
 
 [http://mislav.uniqpath.com/poignant-guide/](http://mislav.uniqpath.com/poignant-guide/) - Why's (Poignant) Guide to Ruby
 
+[https://github.com/mindaslab/ilrx](https://github.com/mindaslab/ilrx) - I Love Ruby Book and Source
+
 [http://awesome-ruby.com/](http://awesome-ruby.com/) - Collection of Ruby libraries, tools, frameworks and software.
 
 [https://www.omniref.com/](https://www.omniref.com/) - Ruby documentation search
@@ -82,6 +86,8 @@
 [http://planetruby.herokuapp.com/](http://planetruby.herokuapp.com/) - Ruby and Rails Blogs and News Sites
 
 [http://artoo.io/](http://artoo.io/) - Robot programming.
+
+[http://rubular.com/](http://rubular.com/) - Ruby RegEx editor
 
 
 ---
