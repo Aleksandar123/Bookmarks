@@ -77,5 +77,11 @@
 
 [http://ronin-ruby.github.io/](http://ronin-ruby.github.io/) - Ruby platform for exploit development and security research.
 
+[http://samurails.com/interview/prepare-for-a-ruby-job-interview/](http://samurails.com/interview/prepare-for-a-ruby-job-interview/) - Basic stuff that you should know as a Ruby developer.
+
+[http://planetruby.herokuapp.com/](http://planetruby.herokuapp.com/) - Ruby and Rails Blogs and News Sites
+
+[http://artoo.io/](http://artoo.io/) - Robot programming.
+
 
 ---
