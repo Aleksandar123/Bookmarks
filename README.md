@@ -89,5 +89,8 @@
 
 [http://rubular.com/](http://rubular.com/) - Ruby RegEx editor
 
+[https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby Bookmarks
+
+[https://github.com/saberma/ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) - Ruby Bookmarks
 
 ---
