@@ -69,4 +69,13 @@
 
 [http://mislav.uniqpath.com/poignant-guide/](http://mislav.uniqpath.com/poignant-guide/) - Why's (Poignant) Guide to Ruby
 
+[http://awesome-ruby.com/](http://awesome-ruby.com/) - Collection of Ruby libraries, tools, frameworks and software.
+
+[https://www.omniref.com/](https://www.omniref.com/) - Ruby documentation search
+
+[https://www.ruby-toolbox.com/](https://www.ruby-toolbox.com/) - Ruby Gems
+
+[http://ronin-ruby.github.io/](http://ronin-ruby.github.io/) - Ruby platform for exploit development and security research.
+
+
 ---
