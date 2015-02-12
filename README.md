@@ -14,6 +14,8 @@
 
 [http://resrc.io/list/10/list-of-free-programming-books/](http://resrc.io/list/10/list-of-free-programming-books/)- List of free programming books
 
+[https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - List of lists for everything.
+
 ---
 
 ### Docs.
