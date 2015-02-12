@@ -93,4 +93,10 @@
 
 [https://github.com/saberma/ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) - Ruby Bookmarks
 
+[https://www.railstutorial.org/book](https://www.railstutorial.org/book) - Ruby on Rails Tutorial - Michael Hartl
+
+[http://learnxinyminutes.com/docs/ruby](http://learnxinyminutes.com/docs/ruby) - Learn Ruby in Y minutes
+
+[https://github.com/bbatsov/ruby-style-guide#readme](https://github.com/bbatsov/ruby-style-guide#readme)- Ruby style Guide
+
 ---
