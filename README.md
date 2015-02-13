@@ -50,6 +50,17 @@
 
 [https://www.draw.io/](https://www.draw.io/) - Diagram drawing tool
 
+[http://goodui.org/index.html](http://goodui.org/index.html) - Tips for good interface
+
+[http://hellohappy.org/beautiful-web-type/](http://hellohappy.org/beautiful-web-type/) - Showcase of Google fonts
+
+[https://color.adobe.com/create/color-wheel/](https://color.adobe.com/create/color-wheel/) - Color wheel
+
+[http://app.coolors.co/](http://app.coolors.co/) - Generate Cool colors
+
+[https://coggle.it/](https://coggle.it/) - Create notes with branches
+
+
 ---
 
 
@@ -70,6 +81,8 @@
 [https://rubymonk.com/](https://rubymonk.com/) - Free, interactive tutorials to help you discover Ruby idioms, in your browser
 
 [http://www.rubykoans.com/](http://www.rubykoans.com/) - Learn Ruby with the Neo Ruby Koans
+
+[http://tryruby.org/levels/1/challenges/0](http://tryruby.org/levels/1/challenges/0) - Try Ruby: Interactive Ruby Learning
 
 [http://mislav.uniqpath.com/poignant-guide/](http://mislav.uniqpath.com/poignant-guide/) - Why's (Poignant) Guide to Ruby
 
