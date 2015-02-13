@@ -16,6 +16,8 @@
 
 [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - List of lists for everything.
 
+[List of Tools (Google Docs)](https://docs.google.com/spreadsheet/ccc?key=0AgdrTOOiB3BMdExDMXAtUmhrNnQwUXRjZHh1QVhzRHc#gid=0) 
+
 ---
 
 ### Docs.
