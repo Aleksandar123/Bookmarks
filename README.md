@@ -62,6 +62,8 @@
 
 [https://coggle.it/](https://coggle.it/) - Create notes with branches
 
+[http://goratchet.com/](http://goratchet.com/) - Build mobile apps with simple HTML‚ CSS‚ and JS components.
+
 
 ---
 
@@ -97,6 +99,8 @@
 [http://www.caliban.org/ruby/rubyguide.shtml](http://www.caliban.org/ruby/rubyguide.shtml) - The Unofficial Ruby Usage Guide (at Google)
 
 [https://github.com/bbatsov/ruby-style-guide#readme](https://github.com/bbatsov/ruby-style-guide#readme)- Ruby style Guide
+
+[https://www.evernote.com/pub/ducharmehd/ruby](https://www.evernote.com/pub/ducharmehd/ruby) - Ruby Notes
 
 [https://www.omniref.com/](https://www.omniref.com/) - Ruby documentation search
 
