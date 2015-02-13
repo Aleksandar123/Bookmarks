@@ -68,15 +68,8 @@
 
 ### Ruby
 
-[https://practicingruby.com/](https://practicingruby.com/) - Practicing Ruby: Delightful lessons for dedicated programmers
-
-[http://ruby.bastardsbook.com/toc/](http://ruby.bastardsbook.com/toc/) - The Bastards Book of Ruby: A Programming Primer for Counting and Other Unconventional Tasks
-
-[http://ruby-hacking-guide.github.io/](http://ruby-hacking-guide.github.io/) - Ruby Hacking Guide
-
-[http://dmtri.com/posts/65](http://dmtri.com/posts/65) - Just Enough Ruby to Get By
-
-[http://www.caliban.org/ruby/rubyguide.shtml](http://www.caliban.org/ruby/rubyguide.shtml) - The Unofficial Ruby Usage Guide (at Google)
+##### Books and Tutorials
+[http://tryruby.org/levels/1/challenges/0](http://tryruby.org/levels/1/challenges/0) - Try Ruby: Interactive Ruby Learning
 
 [http://ruby.learncodethehardway.org/book/](http://ruby.learncodethehardway.org/book/) - Learn Ruby the Hard Way
 
@@ -84,36 +77,57 @@
 
 [http://www.rubykoans.com/](http://www.rubykoans.com/) - Learn Ruby with the Neo Ruby Koans
 
-[http://tryruby.org/levels/1/challenges/0](http://tryruby.org/levels/1/challenges/0) - Try Ruby: Interactive Ruby Learning
-
 [http://mislav.uniqpath.com/poignant-guide/](http://mislav.uniqpath.com/poignant-guide/) - Why's (Poignant) Guide to Ruby
 
 [https://github.com/mindaslab/ilrx](https://github.com/mindaslab/ilrx) - I Love Ruby Book and Source
 
-[http://awesome-ruby.com/](http://awesome-ruby.com/) - Collection of Ruby libraries, tools, frameworks and software.
-
-[https://www.omniref.com/](https://www.omniref.com/) - Ruby documentation search
-
-[https://www.ruby-toolbox.com/](https://www.ruby-toolbox.com/) - Ruby Gems
-
-[http://ronin-ruby.github.io/](http://ronin-ruby.github.io/) - Ruby platform for exploit development and security research.
-
-[http://samurails.com/interview/prepare-for-a-ruby-job-interview/](http://samurails.com/interview/prepare-for-a-ruby-job-interview/) - Basic stuff that you should know as a Ruby developer.
-
-[http://planetruby.herokuapp.com/](http://planetruby.herokuapp.com/) - Ruby and Rails Blogs and News Sites
-
-[http://artoo.io/](http://artoo.io/) - Robot programming.
-
-[http://rubular.com/](http://rubular.com/) - Ruby RegEx editor
-
-[https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby Bookmarks
-
-[https://github.com/saberma/ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) - Ruby Bookmarks
+[http://ruby.bastardsbook.com/toc/](http://ruby.bastardsbook.com/toc/) - The Bastards Book of Ruby: A Programming Primer for Counting and Other Unconventional Tasks
 
 [https://www.railstutorial.org/book](https://www.railstutorial.org/book) - Ruby on Rails Tutorial - Michael Hartl
 
 [http://learnxinyminutes.com/docs/ruby](http://learnxinyminutes.com/docs/ruby) - Learn Ruby in Y minutes
 
+[http://dmtri.com/posts/65](http://dmtri.com/posts/65) - Just Enough Ruby to Get By
+
+[https://practicingruby.com/](https://practicingruby.com/) - Practicing Ruby: Delightful lessons for dedicated programmers
+
+[http://ruby-hacking-guide.github.io/](http://ruby-hacking-guide.github.io/) - Ruby Hacking Guide
+
+##### Guides and Reads
+
+[http://www.caliban.org/ruby/rubyguide.shtml](http://www.caliban.org/ruby/rubyguide.shtml) - The Unofficial Ruby Usage Guide (at Google)
+
 [https://github.com/bbatsov/ruby-style-guide#readme](https://github.com/bbatsov/ruby-style-guide#readme)- Ruby style Guide
+
+[https://www.omniref.com/](https://www.omniref.com/) - Ruby documentation search
+
+[http://samurails.com/interview/prepare-for-a-ruby-job-interview/](http://samurails.com/interview/prepare-for-a-ruby-job-interview/) - Basic stuff that you should know as a Ruby developer.
+
+[http://planetruby.herokuapp.com/](http://planetruby.herokuapp.com/) - Ruby and Rails Blogs and News Sites
+
+##### Gems and libraries
+
+[http://awesome-ruby.com/](http://awesome-ruby.com/) - Collection of Ruby libraries, tools, frameworks and software.
+
+[https://www.ruby-toolbox.com/](https://www.ruby-toolbox.com/) - Ruby Gems
+
+[http://ronin-ruby.github.io/](http://ronin-ruby.github.io/) - Ruby platform for exploit development and security research.
+
+[http://artoo.io/](http://artoo.io/) - Robot programming.
+
+
+
+##### Bookmarks
+
+[https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby Bookmarks
+
+[https://github.com/saberma/ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) - Ruby Bookmarks
+
+
+##### Other Tools
+
+[http://rubular.com/](http://rubular.com/) - Ruby RegEx editor
+
+
 
 ---
