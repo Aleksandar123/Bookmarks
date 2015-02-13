@@ -91,7 +91,6 @@
 
 [https://practicingruby.com/](https://practicingruby.com/) - Practicing Ruby: Delightful lessons for dedicated programmers
 
-[http://ruby-hacking-guide.github.io/](http://ruby-hacking-guide.github.io/) - Ruby Hacking Guide
 
 ##### Guides and Reads
 
@@ -104,6 +103,8 @@
 [http://samurails.com/interview/prepare-for-a-ruby-job-interview/](http://samurails.com/interview/prepare-for-a-ruby-job-interview/) - Basic stuff that you should know as a Ruby developer.
 
 [http://planetruby.herokuapp.com/](http://planetruby.herokuapp.com/) - Ruby and Rails Blogs and News Sites
+
+[http://ruby-hacking-guide.github.io/](http://ruby-hacking-guide.github.io/) - Ruby Hacking Guide
 
 ##### Gems and libraries
 
