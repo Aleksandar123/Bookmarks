@@ -64,7 +64,9 @@
 
 [http://goratchet.com/](http://goratchet.com/) - Build mobile apps with simple HTML‚ CSS‚ and JS components.
 
+[http://ideone.com/](http://ideone.com/) - Online Compiler
 
+[http://codepad.org/](http://codepad.org/) - Online Compiler
 ---
 
 
