@@ -67,8 +67,51 @@
 [http://ideone.com/](http://ideone.com/) - Online Compiler
 
 [http://codepad.org/](http://codepad.org/) - Online Compiler
+
 ---
 
+### Programming Challanges
+
+
+[http://codefights.com/](http://codefights.com/)
+
+[http://coderbyte.com/](http://coderbyte.com/)
+
+[http://www.hackerearth.com/](http://www.hackerearth.com/)
+
+[https://www.codeeval.com/](https://www.codeeval.com/)
+
+[http://www.checkio.org/](http://www.checkio.org/)
+
+[http://cyber-dojo.org/](http://cyber-dojo.org/)
+
+[http://www.codechef.com](http://www.codechef.com)
+
+[https://code.google.com/codejam/contests.html](https://code.google.com/codejam/contests.html)
+
+[https://open.kattis.com/](https://open.kattis.com/)
+
+[http://www.codewars.com/](http://www.codewars.com/)
+
+[http://cryptopals.com/](http://cryptopals.com/)
+
+[http://www.spoj.com/](http://www.spoj.com/)
+
+[http://www.codewars.com/](http://www.codewars.com/)
+
+[https://oj.leetcode.com/](https://oj.leetcode.com/)
+
+[http://acm.timus.ru/](http://acm.timus.ru/problemset.aspx?space=1&page=1)
+
+[https://www.hackerrank.com/](https://www.hackerrank.com/)
+
+[http://leetcode.com/](http://leetcode.com/)
+
+[http://www.codeabbey.com/](http://www.codeabbey.com/)
+
+[/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
+
+---
 
 ### Ruby
 
