@@ -141,6 +141,7 @@
 [http://dmtri.com/posts/65](http://dmtri.com/posts/65) - Just Enough Ruby to Get By
 
 [https://practicingruby.com/](https://practicingruby.com/) - Practicing Ruby: Delightful lessons for dedicated programmers
+
 [http://readruby.io/](http://readruby.io/) - Read Ruby
 
 
