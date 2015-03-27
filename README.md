@@ -20,6 +20,8 @@
 
 [https://github.com/vhf/free-programming-books/](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) - List of Free Programming Books
 
+[https://zeef.com/](https://zeef.com/) - Lists of various things
+
 ---
 
 ### Docs.
