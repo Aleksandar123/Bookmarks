@@ -146,6 +146,8 @@
 
 [http://rubyoffrails.com/](http://rubyoffrails.com/) - Ruby off Rails
 
+[http://tutorials.jumpstartlab.com/](http://tutorials.jumpstartlab.com/) - Jump Start Lab
+
 
 ##### Guides and Reads
 
