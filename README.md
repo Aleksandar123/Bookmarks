@@ -158,6 +158,8 @@
 
 [http://tutorials.jumpstartlab.com/](http://tutorials.jumpstartlab.com/) - Jump Start Lab
 
+[https://leanpub.com/developing-games-with-ruby/read](https://leanpub.com/developing-games-with-ruby/read) - Developing games with Ruby
+
 
 ##### Guides and Reads
 
